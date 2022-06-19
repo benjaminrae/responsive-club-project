@@ -1,6 +1,6 @@
 # BCN Writers' Workshop
 
-[Live site:](https://whimsical-jalebi-da86c2.netlify.app/) 
+[Live site](https://whimsical-jalebi-da86c2.netlify.app/) 
 
 The goal of this Codecademy project was to make a responsive website for a local club or organisation. 
 
